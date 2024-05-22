@@ -1,0 +1,8 @@
+Instruções de uso do jogo Conecta 4
+
+1- Abra o programa "Conecta 4 contra o computador.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Mova o mouse para onde você deseja derrubar a sua ficha e aguarde o computador fazer a jogada dele. Vence quem primeiro conseguir enfileirar (na vertical, horizontal ou diagonal) 4 fichas da mesma cor.
+
+OBS: Para jogar contra outro jogado humano, abra o programa "Conecta 4 para 2 jogadores.pyw".
